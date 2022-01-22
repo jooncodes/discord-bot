@@ -1,0 +1,10 @@
+.DS_Store
+/venv/
+
+*.log
+/etc/*
+!/etc/requirements.txt
+
+secrets.py
+config.json
+config.py

@@ -1,0 +1,15 @@
+{
+    "bottoken":"refer to discord developer portal",
+    "webhookid":"WEBHOOK.ID",
+    "webhooktoken":"WEBHOOK.TOKEN",
+    "users":{
+        "USERID":{
+            "user":"any",
+            "messageid":"linked webhook"
+        },
+        "000000000000000000":{
+            "user":"any",
+            "messageid":"linked webhook"
+        }
+    }
+}
